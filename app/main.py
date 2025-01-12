@@ -9,7 +9,7 @@ from utils import clean_text
 def create_streamlit_app(llm, portfolio, clean_text):
     # Set up the page
     st.set_page_config(layout="wide", page_title="Cold Email Generator", page_icon="📧")
-    st.title("📧 Cold Mail Generator")
+    st.title("Cold Mail Generator")
 
     # Input Section
     st.markdown("### Enter Job Page URL")
