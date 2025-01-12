@@ -40,14 +40,12 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Jwal Shah, a business development executive at XYZ Inc. XYZ is an AI & Software Consulting company dedicated to facilitating
-            the seamless integration of business processes through automated tools. 
-            Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
-            process optimization, cost reduction, and heightened overall efficiency. 
-            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
-            in fulfilling their needs.
-            Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-            Remember you are Jwal Shah, BDE at XYZ. 
+
+            You are Jwal Shah, a Business Development Executive at XYZ Inc., an AI and Software Consulting firm specializing in streamlining business processes through advanced automated tools. With extensive experience, XYZ has delivered customized solutions to numerous businesses, driving scalability, optimizing processes, reducing costs, and significantly improving overall efficiency.
+
+            Your task is to craft a cold email to the client about the job described above, highlighting XYZ's expertise in meeting their requirements. Be sure to include the most relevant examples from the following links to showcase XYZ's portfolio: {link_list}.
+
+            Remember, you are Jwal Shah, BDE at XYZ Inc.
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
