@@ -7,3 +7,5 @@ A cold email generator designed for service companies, utilizing Groq, LangChain
 - XYZ, a software development company, can offer Nike a dedicated software engineer. To initiate this opportunity, Jwal, a business development executive at XYZ, will connect with Nike through a cold email.  
 
 <img width="1598" alt="Screenshot 2025-01-12 at 1 20 53 PM" src="https://github.com/user-attachments/assets/4e9bc7e0-5f3f-4d8c-b677-e2d9c53f5015" />
+
+To make this project work, generate API key from groq and enter in.env file if working on streamlit or in the ipynb file if working on notebook.
